@@ -12,7 +12,7 @@ do curso Versionamento de código com Git e GitHub da [Digital Innovation One](h
 
 | Aulas | Resumos |
 |-------|---------| 
-| Gravando Alterações no Repositório local | [Resumos]() |
+| Gravando Alterações no Repositório local | [Resumo]() |
 
 ```
 git init 
